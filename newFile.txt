@@ -1,1 +1,17 @@
 Hello, this is a new file I've created!
+
+Creating New Files
+1. Create a repository for HW (no readme)
+2. cd to the folder in CMD
+3. git init
+4. git status
+5. git add .
+6. git remote add origin(personal remote name) "http://github.com/project"(URL)
+7. git commit -m "Enter message"
+8. git push origin master
+
+Updating Files
+1. git status
+2. git add .
+3. git commit -m "A message of what you did"
+4. git push origin master
